@@ -1,0 +1,9 @@
+# Jobsheet-array
+![Alt text](https://github.com/mikaozora/Jobsheet-array/blob/master/1.PNG)
+![Alt text](https://github.com/mikaozora/Jobsheet-array/blob/master/2.PNG)
+![Alt text](https://github.com/mikaozora/Jobsheet-array/blob/master/3.PNG)
+![Alt text](https://github.com/mikaozora/Jobsheet-array/blob/master/4.PNG)
+![Alt text](https://github.com/mikaozora/Jobsheet-array/blob/master/teman.PNG)
+![Alt text](https://github.com/mikaozora/Jobsheet-array/blob/master/testarray2.PNG)
+![Alt text](https://github.com/mikaozora/Jobsheet-array/blob/master/tugas1.PNG)
+![Alt text](https://github.com/mikaozora/Jobsheet-array/blob/master/tugas2.PNG)
